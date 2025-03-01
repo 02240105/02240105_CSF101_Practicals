@@ -9,6 +9,3 @@ y=10
 z=2
 print(y/z)
 
-x= "hello"
-y= "world"
-print(x+y)
